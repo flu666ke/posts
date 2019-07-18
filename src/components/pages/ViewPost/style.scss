@@ -1,0 +1,22 @@
+.main-post {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, rgb(247, 192, 75), rgb(253, 238, 209));
+}
+
+.comment {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.list-comments {
+    max-width: 390px;
+    margin: 15px auto;
+    padding: 2px 5px;
+    h2{
+        margin: 0;
+    }
+}
